@@ -4,7 +4,7 @@ module.exports = {
 	author: 'John Doe',
 	url: 'https://portfolio.smakosh.com',
 	legalName: 'John Doe',
-	defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+	defaultDescription: 'I’m Mike and I’m a software engineer',
 	socialLinks: {
 		twitter: 'http://www.twitter.com/smakosh',
 		github: 'https://github.com/mikkelrev22/',
