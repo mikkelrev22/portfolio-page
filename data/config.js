@@ -7,7 +7,7 @@ module.exports = {
 	defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
 	socialLinks: {
 		twitter: 'http://www.twitter.com/smakosh',
-		github: 'https://github.com/smakosh',
+		github: 'https://github.com/mikkelrev22/',
 		linkedin: 'https://www.linkedin.com/in/ismail-ghallou-630149122/',
 		instagram: 'https://instagram.com/smakosh19',
 		youtube: 'https://www.youtube.com/user/smakoshthegamer',
